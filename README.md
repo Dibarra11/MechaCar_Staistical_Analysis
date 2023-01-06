@@ -8,3 +8,4 @@ The purpose of the project is to analyse AutosRus, new prototype "The MechaCar" 
 
 To perform the linear regresion we utilize the lm() function to help us predict the miles per gallon in the MechaCar
 ! image(https://github.com/Dibarra11/MechaCar_Staistical_Analysis/blob/2e39bdc572d3a3fea8767840766a8e160aa16a1b/Linear%20regression%20to%20predict%20mpg.png)
+! image(https://github.com/Dibarra11/MechaCar_Staistical_Analysis/blob/5a250cea2b025f6d4fc35cf80ad126bf0247525f/Linear%20regression%20to%20predict%20mpg%202.png)
