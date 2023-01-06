@@ -27,11 +27,11 @@ Total summary table
 
 ![image](https://github.com/Dibarra11/MechaCar_Staistical_Analysis/blob/1f82f5d540ca83ea711cce989d12dd358dfd3983/Totla_Summary.png)
 
-Lot summary table
+Lot summary 
 
 ![image](https://github.com/Dibarra11/MechaCar_Staistical_Analysis/blob/cb3efd332f2055bc73e9150502da84118ea914c5/SuspensionCoils.png)
 
-Lot summary 
+Lot summary table
 
 ![image](https://github.com/Dibarra11/MechaCar_Staistical_Analysis/blob/7265eb36cdfe1f968c1a5b149b2f5b60b8605d54/Lot_Summary.png)
 
