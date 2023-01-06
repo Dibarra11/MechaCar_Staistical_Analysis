@@ -37,4 +37,6 @@ Lot summary table
 
 ## T-Test
 
+![image](https://github.com/Dibarra11/MechaCar_Staistical_Analysis/blob/6d5e218c7e8318fb42b493932065d3984cee4e90/t-test.png)
+
 ![image]()
