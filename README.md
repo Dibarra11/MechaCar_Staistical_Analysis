@@ -40,7 +40,9 @@ Lot summary table
 T-test was perform to determine the PSI differed from the population mean of 1500 pounds per square inch.
 
 The following code was use to obtain the T-test results
+
 ![image](https://github.com/Dibarra11/MechaCar_Staistical_Analysis/blob/6d5e218c7e8318fb42b493932065d3984cee4e90/t-test.png)
 
 T-test results
+
 ![image](https://github.com/Dibarra11/MechaCar_Staistical_Analysis/blob/3de3739a10d44fc48ec7cff0833aab1a419a5154/t-test%202.png)
