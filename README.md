@@ -39,4 +39,4 @@ Lot summary table
 
 ![image](https://github.com/Dibarra11/MechaCar_Staistical_Analysis/blob/6d5e218c7e8318fb42b493932065d3984cee4e90/t-test.png)
 
-![image]()
+![image](https://github.com/Dibarra11/MechaCar_Staistical_Analysis/blob/3de3739a10d44fc48ec7cff0833aab1a419a5154/t-test%202.png)
