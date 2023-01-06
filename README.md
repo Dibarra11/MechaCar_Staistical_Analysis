@@ -27,10 +27,11 @@ Total summary table
 
 ![image](https://github.com/Dibarra11/MechaCar_Staistical_Analysis/blob/1f82f5d540ca83ea711cce989d12dd358dfd3983/Totla_Summary.png)
 
-Lot summary summary table
+Lot summary table
 
-![image](https://github.com/Dibarra11/MechaCar_Staistical_Analysis/blob/7265eb36cdfe1f968c1a5b149b2f5b60b8605d54/Lot_Summary.png)
+![image]()
 
 Lot summary 
 
-![image]()
+![image](https://github.com/Dibarra11/MechaCar_Staistical_Analysis/blob/7265eb36cdfe1f968c1a5b149b2f5b60b8605d54/Lot_Summary.png)
+
