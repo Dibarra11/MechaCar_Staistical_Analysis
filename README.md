@@ -29,7 +29,7 @@ Total summary table
 
 Lot summary table
 
-![image]()
+![image](https://github.com/Dibarra11/MechaCar_Staistical_Analysis/blob/cb3efd332f2055bc73e9150502da84118ea914c5/SuspensionCoils.png)
 
 Lot summary 
 
