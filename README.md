@@ -21,3 +21,8 @@ To perform the linear regresion we utilize the lm() function to help us predict 
 
 Utilizing the summarize fucntion, the statistics on suspension coils was obtain by using  the mean, meadian, variance, and standard deviation 
 
+![image](https://github.com/Dibarra11/MechaCar_Staistical_Analysis/blob/7dbc2102e27bfbcf82d328f662e9c5db14f7c6a1/T.png)
+
+Total summary table
+
+![image]()
