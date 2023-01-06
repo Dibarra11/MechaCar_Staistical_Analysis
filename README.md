@@ -25,4 +25,8 @@ Utilizing the summarize fucntion, the statistics on suspension coils was obtain 
 
 Total summary table
 
+![image](https://github.com/Dibarra11/MechaCar_Staistical_Analysis/blob/1f82f5d540ca83ea711cce989d12dd358dfd3983/Totla_Summary.png)
+
+Lot summary table
+
 ![image]()
