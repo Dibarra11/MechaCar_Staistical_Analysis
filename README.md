@@ -47,3 +47,19 @@ The following code was used to obtain the T-test results
 T-test results
 
 ![image](https://github.com/Dibarra11/MechaCar_Staistical_Analysis/blob/3de3739a10d44fc48ec7cff0833aab1a419a5154/t-test%202.png)
+
+The mean value came out to 1498.78 which is not different than the population mean.
+
+Additional lots where run to comapred the differences between them.
+
+### Lot 1
+
+![image]()
+
+### Lot 2
+
+![image]()
+
+### Lot 3
+
+![image]()
