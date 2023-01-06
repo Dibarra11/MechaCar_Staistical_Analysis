@@ -66,3 +66,9 @@ Additional lots where run to comapred the differences between them.
 
 ## Study Comparing the MechaCar to the Competition
 
+
+- The following metrics should be used; city and highway fuel economy
+- The null hypothesis indicates that all cars have the same mpg versus the alternative hypothesis that the mpg differs on all cars
+- ANOVA should be the test to use to test the hypothesis because it is the best way to test the significance of the experimental results
+- The ideal population to run the test should be 50-100 cars to have a good representation of the population(cars)
+
