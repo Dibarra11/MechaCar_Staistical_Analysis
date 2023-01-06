@@ -62,4 +62,4 @@ Additional lots where run to comapred the differences between them.
 
 ### Lot 3
 
-![image]()
+![image](https://github.com/Dibarra11/MechaCar_Staistical_Analysis/blob/b80bf6c5c27010543232fbefa2cdbc613829b438/3.png)
